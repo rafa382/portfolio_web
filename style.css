@@ -1,0 +1,69 @@
+h1{
+    font-family: 'Urbanist', sans-serif;
+    color: #9851ca;
+    text-align: center;
+    font-size: 100px; 
+    font-weight: bold;
+    margin-top:  50px;
+    position: relative;
+    }
+    
+    p{
+    font-family: 'Hind Vadodara', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;  
+    }
+    
+    body{
+        background-color: #50096c;
+        padding: 3%;
+    }
+    strong{
+        background-color: #9851ca;
+    }
+    
+    .style-font-list{
+        font-size: 20px;
+        font-family: 'Urbanist', sans-serif;
+        color: white;
+        font-weight: bold;
+    }
+    
+    .style-links-skills{
+        font-family: 'Urbanist',sans-serif;
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+        margin-top: -50px;
+    }
+    
+    .style-best-skills{
+        font-family: 'Urbanist',sans-serif;
+        color: #ffffff;
+        margin-right: -50px;
+    }
+    
+    #style-photo{
+        border-radius: 150px;
+        float: left;
+        padding: 10px;
+        background-color: #9851ca;
+    }
+    .image-container{
+        position: relative;
+        height: 350px;
+    }
+    .descricao{
+        position: absolute;
+        top: 58%;
+        right: 23%;
+    }
+    ul li:nth-child(odd){
+        color: #f89cc7;
+        font-weight: bold;
+    }
+    .links-habilidades-style{
+        position: absolute;
+        top: 25%;
+        right: 45%; 
+    }
